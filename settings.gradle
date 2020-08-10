@@ -1,0 +1,4 @@
+include ':X5WebDemo'
+include ':X5WebDemo'
+include ':app'
+rootProject.name = "X5WebViewApplication"
